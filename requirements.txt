@@ -1,0 +1,15 @@
+streamlit
+pandas
+opencv-python
+paddlepaddle
+paddleocr
+transformers
+torch
+google-generativeai
+scikit-learn
+rapidfuzz
+python-Levenshtein
+editdistance
+PyMuPDF
+grpcio
+openpyxl
